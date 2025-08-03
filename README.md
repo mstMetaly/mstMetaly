@@ -1,5 +1,8 @@
+
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat coding" />
+</div>
 <h1 align="center">Hi, I'm Mst. Metaly Khatun 👋</h1>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="cat coding"/>
 
 <p align="center">
   💻 CSE Level 4 Term 1 student at <b>BUET</b> <br>
