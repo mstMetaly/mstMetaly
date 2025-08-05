@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Mst. Metaly Khatun !</h1>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRvb2V1NmQzOXpoamx6ZzlwNXZlZzU5dGFpNzJjcTNoMGx4d3JxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh5cT7QyWRW6zElM53/giphy.gif" alt="cat coding" />
-</div>
-
-
 <p align="center">
   💻 CSE L4-T1 student at <b>BUET</b> <br>
   🌐 <b>Software Developer @ Sociofy Technology </br>
   📍 Passionate about Web Development |  Exploring AI & ML <br>
   📍 Based in Bangladesh
 </p>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRvb2V1NmQzOXpoamx6ZzlwNXZlZzU5dGFpNzJjcTNoMGx4d3JxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh5cT7QyWRW6zElM53/giphy.gif" alt="cat coding" />
+</div>
 
 ---
 
