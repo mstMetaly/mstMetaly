@@ -1,7 +1,7 @@
-# Hi, I'm Mst. Metaly Khatun! 👋
+<h1 align="center">Hi, I'm Mst. Metaly Khatun!</h1>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRvb2V1NmQzOXpoamx6ZzlwNXZlZzU5dGFpNzJjcTNoMGx4d3JxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh5cT7QyWRW6zElM53/giphy.gif" alt="cat coding" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d4YXVuNzRhNGZwMGtobG9vM2FhY3htNWJwYnU3NzNsOTl5dTl2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aPuY0iblEJupNGrWL/giphy.gif" alt="cat coding" width="600" />
 </div>
 
 <p align="center">
@@ -76,7 +76,7 @@ My research interests lie at the intersection of artificial intelligence and pra
 - Built an intelligent research assistant using advanced NLP techniques
 - Implemented automated paper retrieval, summarization, and gap analysis
 - Integrated multiple AI models for comprehensive research support
-- Technologies: Python, TensorFlow, spaCy, NLTK, React.js, Node.js
+- Technologies: Next.js, FastAPI, SpringBoot, postgreSQL
 
 ---
 
@@ -146,8 +146,8 @@ My research interests lie at the intersection of artificial intelligence and pra
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metalykhatun&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metalykhatun&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mstMetaly&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstMetaly&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
