@@ -30,28 +30,12 @@ I am a final-year undergraduate student at BUET's Department of Computer Science
 My research interests lie at the intersection of artificial intelligence and practical applications, with a particular focus on:
 
 ### 🤖 Artificial Intelligence (AI)
-- **Natural Language Processing (NLP)**: Text analysis, sentiment analysis, language modeling
-- **Computer Vision**: Image processing, object detection, pattern recognition
-- **Intelligent Systems**: Expert systems, knowledge representation, reasoning
 
 ### 🔍 Explainable AI (XAI)
-- **Model Interpretability**: Understanding and explaining AI decision-making processes
-- **Transparency in AI**: Making AI systems more accountable and trustworthy
-- **Human-AI Interaction**: Designing AI systems that users can understand and trust
-- **Fairness and Bias**: Ensuring AI systems are fair and unbiased
 
 ### 🧠 Machine Learning (ML)
-- **Supervised Learning**: Classification, regression, ensemble methods
-- **Unsupervised Learning**: Clustering, dimensionality reduction, anomaly detection
-- **Reinforcement Learning**: Decision-making systems, optimization algorithms
-- **Feature Engineering**: Data preprocessing, feature selection, model optimization
 
 ### 🧬 Deep Learning (DL)
-- **Neural Networks**: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
-- **Transformers**: Attention mechanisms, language models, sequence processing
-- **Generative Models**: GANs, VAEs, text generation, image synthesis
-- **Transfer Learning**: Pre-trained models, domain adaptation, knowledge transfer
-
 ---
 
 ## 💼 Professional Experience
