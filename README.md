@@ -29,13 +29,13 @@ I am a final-year undergraduate student at BUET's Department of Computer Science
 
 My research interests lie at the intersection of artificial intelligence and practical applications, with a particular focus on:
 
-### 🤖 Artificial Intelligence (AI)
+### Artificial Intelligence (AI)
 
-### 🔍 Explainable AI (XAI)
+### Explainable AI (XAI)
 
-### 🧠 Machine Learning (ML)
+### Machine Learning (ML)
 
-### 🧬 Deep Learning (DL)
+### Software Engineering (SWE)
 ---
 
 ## 💼 Professional Experience
