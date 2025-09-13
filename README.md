@@ -138,10 +138,10 @@ My research interests lie at the intersection of artificial intelligence and pra
 
 ## 🎯 Current Focus
 
-- **🔬 Research**: Exploring explainable AI techniques for healthcare applications
-- **🌱 Learning**: Advanced deep learning architectures and transformer models
-- **🚀 Building**: Scalable AI-powered web applications
-- **📚 Contributing**: Open-source projects in the AI/ML community
+- **Research**: Exploring explainable AI techniques for healthcare applications
+- **Learning**: Advanced deep learning architectures and transformer models
+- **Building**: Scalable AI-powered web applications
+- **Contributing**: Open-source projects in the AI/ML community
 
 ---
 
