@@ -130,9 +130,10 @@ My research interests lie at the intersection of artificial intelligence and pra
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mstMetaly&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mstMetaly&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstMetaly&theme=radical" alt="GitHub Streak" />
 </div>
+
 
 ---
 
