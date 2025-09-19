@@ -55,13 +55,6 @@ My research interests lie at the intersection of artificial intelligence and pra
 - Implemented advanced cryptographic techniques for network security assessment
 - Demonstrated practical application of cybersecurity concepts
 
-### 🧠 ScholarAI - Intelligent Research Assistant
-**AI-Powered Research Platform**
-- Built an intelligent research assistant using advanced NLP techniques
-- Implemented automated paper retrieval, summarization, and gap analysis
-- Integrated multiple AI models for comprehensive research support
-- Technologies: Next.js, FastAPI, SpringBoot, postgreSQL
-
 ---
 
 ## 🛠️ Technical Skills
