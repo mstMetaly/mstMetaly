@@ -49,12 +49,6 @@ My research interests lie at the intersection of artificial intelligence and pra
 
 ## 🚀 Notable Projects
 
-### 🔐 PMKID-Based WiFi Cracking Tool
-**CSE-406 Computer Security Sessional Project**
-- Developed a sophisticated WiFi security analysis tool
-- Implemented advanced cryptographic techniques for network security assessment
-- Demonstrated practical application of cybersecurity concepts
-
 ---
 
 ## 🛠️ Technical Skills
