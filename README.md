@@ -40,10 +40,10 @@ My research interests lie at the intersection of artificial intelligence and pra
 
 ## 💼 Professional Experience
 
-### 🌐 Software Developer @ Sociofy Technology
-- Developing scalable web applications using modern technologies
-- Collaborating with cross-functional teams to deliver high-quality software solutions
-- Implementing best practices in software development and deployment
+### 🌐 Former Software Developer @ Sociofy Technology
+- Developed scalable web applications using modern technologies
+- Collaborated with cross-functional teams to deliver high-quality software solutions
+- Implemented best practices in software development and deployment
 
 ---
 
