@@ -3,7 +3,7 @@
 <p align="center">
   <strong>💻 Computer Science & Engineering Student | L4-T1</strong><br>
   <strong>🏛️ Bangladesh University of Engineering and Technology (BUET)</strong><br>
-  <strong>🌐 Software Developer @ Sociofy Technology</strong><br>
+  <strong>🌐 Ex-Software Developer @ Sociofy Technology</strong><br>
   <strong>📍 Dhaka, Bangladesh</strong>
 </p>
 
